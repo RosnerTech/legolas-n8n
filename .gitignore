@@ -1,0 +1,6 @@
+.env
+n8n-data/
+postgres-data/
+redis-data/
+*.log
+.DS_Store
